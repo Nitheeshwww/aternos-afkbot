@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
-	"name": "BOT_NAME"
+	"ip":"NRSPM2.aternos.me",
+	"port": "60948",
+	"name": "NR_SMP_BOT"
 }
